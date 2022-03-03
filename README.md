@@ -1,0 +1,2 @@
+# SPfxGlobalNav
+Global Navigation hierarchy
